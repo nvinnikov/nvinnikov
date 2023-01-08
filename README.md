@@ -1,4 +1,5 @@
 ### Hi there 👋
 
-- 🔭 HSE, Mercuryo
+- 👨🏻‍💻 Mercuryo, QA engineer
+- 🔭 HSE, CyberSecurity
 - 📫 How to reach me: nvinnikov@miem.hse.ru
