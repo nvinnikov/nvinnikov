@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 👨🏻‍💻 Mercuryo, QA engineer
+- 👨🏻‍💻 Mercuryo, Lead QA
 - 🔭 HSE, CyberSecurity
-- 📫 How to reach me: nvinnikov@miem.hse.ru
+- 📫 How to reach me: nvvinnikov@gmail.com
